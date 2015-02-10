@@ -1,5 +1,5 @@
 # karma で DOM をテストするサンプル
 
-## LICENSE
+## License
 
 MIT

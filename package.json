@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "furugomu@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "coffee-script": "^1.9.0",
+    "karma": "^0.12.31",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-cli": "0.0.4",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-html2js-preprocessor": "^0.1.0",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.1.0"
+  }
+}
